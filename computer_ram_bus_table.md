@@ -1,3 +1,4 @@
+## Computer Memory Information Table
 | Technology |	MHz Speed(Data Rate)  |	Module Classification | Module Peak Bandwidth |
 |------------|------------------------|-----------------------|-----------------------|
 |DDR3 (1.5V) DDR3L (1.35V) |800 (DDR3-800) |PC3-6400 |6400 MB/sec. or 6.4 GB/sec.|
@@ -6,4 +7,4 @@
 ||1600 (DDR3-1600) |PC3-12800 	|12800 MB/sec. or 12.8 GB/sec.|
 ||1866 (DDR3-1866) 	|PC3-14900 	|14900 MB/sec. or 14.9 GB/sec.|
 
-[back to home](./readme.md)
+[back to home](./README.md)
